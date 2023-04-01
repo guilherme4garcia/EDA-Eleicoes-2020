@@ -10,29 +10,29 @@ Os dados podem ser encontrados para download no repositório de dados eleitorais
 
 > Clique nas imagens para visualizar em alta resolução.
 
-![Partidos Mais Votados Brasil - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Brasil%202020.png)
+![Partidos Mais Votados Brasil - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Brasil%202020.png)
 
-![Partidos Mais Votados Região: Norte - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Norte%202020.png)
+![Partidos Mais Votados Região: Norte - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Norte%202020.png)
 
-![Partidos Mais Votados Região: Centro-Oeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Centro-Oeste%202020.png)
+![Partidos Mais Votados Região: Centro-Oeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Centro-Oeste%202020.png)
 
-![Partidos Mais Votados Região: Nordeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Nordeste%202020.png)
+![Partidos Mais Votados Região: Nordeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Nordeste%202020.png)
 
-![Partidos Mais Votados Região: Sudeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Sudeste%202020.png)
+![Partidos Mais Votados Região: Sudeste - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Sudeste%202020.png)
 
-![Partidos Mais Votados Região: Sul - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Partidos%20mais%20votados%20Sul%202020.png)
+![Partidos Mais Votados Região: Sul - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Partidos%20mais%20votados%20Sul%202020.png)
 
-![Composição Étnica dos Candidatos a Prefeito - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Etnia%20Candidatos%20a%20Prefeito.png)
+![Composição Étnica dos Candidatos a Prefeito - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Etnia%20Candidatos%20a%20Prefeito.png)
 
-![Composição Étnica dos Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Etnia%20Candidatos%20a%20Vereador.png)
+![Composição Étnica dos Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Etnia%20Candidatos%20a%20Vereador.png)
 
-![Distribuição de Gênero dos Candidatos a Prefeito/Vice - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Genero%20Candidatos%20a%20Prefeito.png)
+![Distribuição de Gênero dos Candidatos a Prefeito/Vice - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Genero%20Candidatos%20a%20Prefeito.png)
 
-![Distribuição de Gênero dos Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Genero%20Candidatos%20a%20Vereador.png)
+![Distribuição de Gênero dos Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Genero%20Candidatos%20a%20Vereador.png)
 
-![Grau de Instrução Candidatos a Prefeito/Vice  - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Grau%20de%20Instru%C3%A7%C3%A3o%20Candidatos%20a%20Prefeito.png)
+![Grau de Instrução Candidatos a Prefeito/Vice  - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Grau%20de%20Instru%C3%A7%C3%A3o%20Candidatos%20a%20Prefeito.png)
 
-![Grau de Instrução Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/Eleicoes_2020/main/images/Grau%20de%20Instru%C3%A7%C3%A3o%20Candidatos%20a%20Vereador.png)
+![Grau de Instrução Candidatos a Vereador - 2020](https://raw.githubusercontent.com/guilherme4garcia/EDA-Eleicoes-2020/main/images/Grau%20de%20Instru%C3%A7%C3%A3o%20Candidatos%20a%20Vereador.png)
 
 #### Requisitos para a execução da análise e apresentação das informações:
 
